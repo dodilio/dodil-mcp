@@ -39,6 +39,10 @@ under Personal settings → Connected apps ([privacy: connected apps](https://do
 | OpenAI Codex CLI | `codex mcp add dodil --url https://mcp.dodil.io` then `codex mcp login dodil` |
 | Goose | [Add to Goose](goose://extension?url=https%3A%2F%2Fmcp.dodil.io&type=streamable_http&id=dodil&name=Dodil&description=Build%20and%20run%20apps%20on%20Dodil) |
 
+**Dodil partners:** payouts, KYC and payment-request tools are served at a
+separate address, `https://mcp.dodil.io/partner`, which carries every tool
+plus those. Add it the same way as above; it is a separate sign-in.
+
 Prefer a local server? The [dodil CLI](https://docs.dodil.io) runs the same
 tools on your machine with `dodil mcp`, using the sign-in from `dodil auth login`.
 
