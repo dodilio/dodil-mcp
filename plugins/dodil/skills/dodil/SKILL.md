@@ -26,7 +26,7 @@ exposes it as tools named after the CLI command path, such as
 
 The first tool call opens Dodil's sign-in page in the browser
 (connect.dodil.io). The user picks which organizations to grant. To change
-that later, they reconnect, or revoke the connection under Connected apps in
+that later, they reconnect, or revoke the connection under Personal settings → Connected apps in
 the Dodil console.
 
 ## Care with writes

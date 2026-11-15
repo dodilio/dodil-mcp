@@ -19,8 +19,8 @@ hosted at `https://mcp.dodil.io`; there is nothing to install or run locally.
 ## Install
 
 You sign in with your Dodil account the first time a tool is used, and choose
-which organizations the AI tool may act in. Revoke access any time under
-Connected apps in the Dodil console.
+which organizations the AI tool may act in. Revoke access any time in the Dodil console
+under Personal settings → Connected apps ([privacy: connected apps](https://dodil.io/legal/privacy#connected-apps)).
 
 | Tool | Install |
 |---|---|
