@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/icon-256.png" width="96" alt="Dodil"></p>
+<p align="center"><img src="assets/icon-rounded-256.png" width="96" alt="Dodil"></p>
 
 # Dodil for AI assistants
 
