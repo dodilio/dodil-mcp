@@ -1,0 +1,11 @@
+{
+  "name": "dodil",
+  "version": "0.1.99",
+  "description": "Build and run apps on Dodil: data (SQL, vector, graph, objects), git and CI, app hosting, and auth",
+  "mcpServers": {
+    "dodil": {
+      "httpUrl": "https://mcp.dodil.io"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dodil",
+  "description": "Build and run apps on Dodil: data (SQL, vector, graph, objects), git and CI, app hosting, and auth",
+  "version": "0.1.99",
+  "author": {
+    "name": "Dodil",
+    "url": "https://dodil.io",
+    "email": "support@dodil.io"
+  }
+}

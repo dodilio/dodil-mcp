@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.dodil/dodil",
+  "title": "Dodil",
+  "description": "Build and run apps on Dodil: SQL/vector/graph data, git and CI, app hosting, and auth.",
+  "repository": {
+    "url": "https://github.com/dodilio/dodil-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://docs.dodil.io",
+  "version": "0.1.99",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.dodil.io"
+    }
+  ]
+}

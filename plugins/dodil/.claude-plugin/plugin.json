@@ -1,0 +1,35 @@
+{
+  "name": "dodil",
+  "displayName": "Dodil",
+  "version": "0.1.99",
+  "description": "Build and run apps on Dodil from Claude: data (SQL, vector, graph, objects), git and CI, app hosting, and auth",
+  "author": {
+    "name": "Dodil",
+    "url": "https://dodil.io",
+    "email": "support@dodil.io"
+  },
+  "homepage": "https://docs.dodil.io",
+  "repository": "https://github.com/dodilio/dodil-mcp",
+  "license": "MIT",
+  "keywords": [
+    "dodil",
+    "database",
+    "sql",
+    "vector",
+    "git",
+    "hosting",
+    "serverless",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://docs.dodil.io",
+  "supportUrl": "https://dodil.io/contact",
+  "privacyPolicyUrl": "https://dodil.io/legal/privacy",
+  "termsOfServiceUrl": "https://dodil.io/legal/terms",
+  "mcpServers": {
+    "dodil": {
+      "type": "http",
+      "url": "https://mcp.dodil.io"
+    }
+  }
+}

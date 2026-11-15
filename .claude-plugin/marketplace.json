@@ -1,0 +1,15 @@
+{
+  "name": "dodil",
+  "description": "Dodil's official plugins for Claude Code",
+  "owner": {
+    "name": "Dodil",
+    "url": "https://dodil.io"
+  },
+  "plugins": [
+    {
+      "name": "dodil",
+      "source": "./plugins/dodil",
+      "description": "Build and run apps on Dodil from Claude: data (SQL, vector, graph, objects), git and CI, app hosting, and auth"
+    }
+  ]
+}
