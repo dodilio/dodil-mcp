@@ -24,9 +24,9 @@ under Personal settings → Connected apps ([privacy: connected apps](https://do
 
 | Tool | Install |
 |---|---|
-| Claude (claude.ai, Desktop, mobile) | Settings → Connectors → add `https://mcp.dodil.io` |
+| Claude (claude.ai, Desktop, mobile) | Customize → Connectors → Add → `https://mcp.dodil.io` |
 | Claude Code | `/plugin marketplace add dodilio/dodil-mcp` then `/plugin install dodil@dodil` |
-| ChatGPT | Apps → search for Dodil *(listing in review)* |
+| ChatGPT | Add a connector with `https://mcp.dodil.io` in ChatGPT's connectors / apps settings |
 
 **Coming soon** (sign-in for these tools is being enabled):
 
